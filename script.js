@@ -377,5 +377,4 @@ document.getElementById("checkoutButton")
 // Initial display
 showProducts();
 showCart();
-message.txt
-11 KB
+
